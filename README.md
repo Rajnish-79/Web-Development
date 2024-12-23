@@ -6,6 +6,10 @@ Store Web Page Related Code.
   </head>
   <body>
     <h1><center>Good Evening Everyone></center></h1>
-    <p><center>This is my first program of HTML language and add a paragraph </center></p>
+    <p><centre>This is my first program of HTML language and add a paragraph </center></p>
   </body>
 </html>
+Hello Everyone my name is Rajnish Pathak
+<br>
+I am currently pursuing BCA from L.N.Mishara College of Business Management.
+

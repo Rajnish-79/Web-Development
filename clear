@@ -1,0 +1,13 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 4bcf232..e33059a 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -19,6 +19,7 @@[m
+         <li>Patna</li>[m
+         <li>Bhagalpur</li>[m
+     </ul>[m
+[32m+[m[32m    <p>This is new feature1</p>[m
+     [m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
